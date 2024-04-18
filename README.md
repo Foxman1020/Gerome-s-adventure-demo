@@ -1,7 +1,7 @@
 # Gerome-s-adventure-demo
 Guide d'installation:
 
-Allez sur ce lien: "https://drive.google.com/file/d/1SBV47x88MmGSiyH7B0ACFszaTbI0utX4/view?usp=sharing" Puis telechargez le fichier, c'est la version BETA du coup ne vous attendez pas à grand chose, nous updaterons la page au fur et à mesure des updates!
+Allez sur ce lien: "https://drive.google.com/file/d/1SBV47x88MmGSiyH7B0ACFszaTbI0utX4/view?usp=sharing" ou "https://foxman1020.itch.io/geromes-adventure"Puis telechargez le fichier, c'est la version BETA du coup ne vous attendez pas à grand chose, nous updaterons la page au fur et à mesure des updates!
 
 Postscriptum:
 
